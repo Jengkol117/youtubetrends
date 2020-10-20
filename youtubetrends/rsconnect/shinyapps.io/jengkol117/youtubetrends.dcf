@@ -1,0 +1,12 @@
+name: youtubetrends
+title: youtubetrends
+username:
+account: jengkol117
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3056106
+bundleId: 3762138
+url: https://jengkol117.shinyapps.io/youtubetrends/
+when: 1603193860.78327
+asMultiple: FALSE
+asStatic: FALSE
